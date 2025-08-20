@@ -11,9 +11,9 @@
   - Desarrollo Personal (productividad, hábitos, marca personal, IA aplicada).  
   - Lógica de Programación (estructuras, funciones y listas).  
   - Introducción a la programación con **JavaScript**.  
-  - **Git & GitHub**.
-  - **Inteligencia Artificial** ().
-  - **HTML & CSS** ().
+  - **Git & GitHub** (repositorio, commit y versiones).
+  - **Inteligencia Artificial** (Prompt).
+  - **HTML & CSS** (Ambientes de desarrollo, Estructura de archivos, Tags, Clases, Posicionamiento, Flexbox, Header, Footer y Variables CSS, Responsive).
 
 ---
 
@@ -45,11 +45,6 @@ Visual Studio Code | GitHub | Figma | MySQL Workbench | draw.io
 - Autonomía y capacidad de aprendizaje continuo.  
 - Atención al detalle.  
 - Comunicación efectiva.  
-
----
-
-## 📈 Estadísticas de GitHub
-![Estadísticas de Fausto](https://github-readme-stats.vercel.app/api?username=FaustoTraversaro&show_icons=true&theme=tokyonight)
 
 ---
 
